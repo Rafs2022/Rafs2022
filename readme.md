@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS Cloud, Ansible, Terraform, Docker**
 
-- 👯 I’m looking to **level up my IaC skills.**
+- 👯 I’m looking to **level up my IaC skills focusing on IaaC**
 
 - 📫 How to reach me **rafss2022@gmail.com**
 
