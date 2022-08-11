@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raf</h1>
-<h3 align="center">A passionate network engineer from Canada</h3>
+<h3 align="center">A passionate technology enthusiast / IT engineer from Canada</h3>
 
 - 🔭 My goal is to **acquire the AWS SysOps Admin Cloud Cert.**
 
@@ -7,9 +7,13 @@
 
 - 👯 I’m looking to **level up my IaC skills focusing on IaaC**
 
+- ⚡ Skills **System Admin // Networking design // Troubleshooting**
+
 - 📫 How to reach me **rafss2022@gmail.com**
 
 - ⚡ Fun fact **I also enjoy graphic design!**
+
+- LinkedIn - https://www.linkedin.com/in/rafeeq-s-0536b022/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
