@@ -7,13 +7,13 @@
 
 - 👯 I’m looking to **level up my IaC skills focusing on IaaC**
 
-- ⚡ Skills **System Admin // Networking design // Troubleshooting**
+- ⚡ Skills - **System Admin // Networking design // Troubleshooting**
 
 - 📫 How to reach me **rafss2022@gmail.com**
 
 - ⚡ Fun fact **I also enjoy graphic design!**
 
-- LinkedIn - https://www.linkedin.com/in/rafeeq-s-0536b022/
+-  LinkedIn - https://www.linkedin.com/in/rafeeq-s-0536b022/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
